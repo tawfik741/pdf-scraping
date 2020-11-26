@@ -1,2 +1,2 @@
 # pdf-scraping
-stuff with salma
+A Python pdf scraper
